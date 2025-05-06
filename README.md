@@ -2,7 +2,7 @@
 
 A modern, single-page web application built using **React JS**, **Vite**, and **Material UI**. It helps users calculate their monthly loan EMI (Equated Monthly Installment) and supports basic form input and responsive design.
 
-🚀 **Live Demo**: [loan-calculator-ujjwal-vermas-projects.vercel.app](loan-calculator-ujjwal-vermas-projects.vercel.app)
+🚀 **Live Demo**: [loan-calculator-ujjwal-vermas-projects.vercel.app/](loan-calculator-ujjwal-vermas-projects.vercel.app/)
 
 ---
 
